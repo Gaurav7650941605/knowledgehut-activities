@@ -1,0 +1,18 @@
+body{
+    background-color: gray;
+}
+.b1{
+    padding: 10px;
+    background-color: blanchedalmond;
+    border: 5px solid;
+    font-size: 16px;
+    display: inline-block;
+    
+ }
+ .numbers{
+     font-size: 1em;
+  
+   display: inline-table;
+   color: blue;
+
+ }
